@@ -1,0 +1,14 @@
+C:\Users\jonat\OneDrive\Desktop\ControlAsistencias\SistemaAsistencias\SistemaAsistencias\bin\Debug\net8.0\SistemaAsistencias.exe
+C:\Users\jonat\OneDrive\Desktop\ControlAsistencias\SistemaAsistencias\SistemaAsistencias\bin\Debug\net8.0\SistemaAsistencias.deps.json
+C:\Users\jonat\OneDrive\Desktop\ControlAsistencias\SistemaAsistencias\SistemaAsistencias\bin\Debug\net8.0\SistemaAsistencias.runtimeconfig.json
+C:\Users\jonat\OneDrive\Desktop\ControlAsistencias\SistemaAsistencias\SistemaAsistencias\bin\Debug\net8.0\SistemaAsistencias.dll
+C:\Users\jonat\OneDrive\Desktop\ControlAsistencias\SistemaAsistencias\SistemaAsistencias\bin\Debug\net8.0\SistemaAsistencias.pdb
+C:\Users\jonat\OneDrive\Desktop\ControlAsistencias\SistemaAsistencias\SistemaAsistencias\obj\Debug\net8.0\SistemaAsistencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Desktop\ControlAsistencias\SistemaAsistencias\SistemaAsistencias\obj\Debug\net8.0\SistemaAsistencias.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Desktop\ControlAsistencias\SistemaAsistencias\SistemaAsistencias\obj\Debug\net8.0\SistemaAsistencias.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Desktop\ControlAsistencias\SistemaAsistencias\SistemaAsistencias\obj\Debug\net8.0\SistemaAsistencias.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Desktop\ControlAsistencias\SistemaAsistencias\SistemaAsistencias\obj\Debug\net8.0\SistemaAsistencias.dll
+C:\Users\jonat\OneDrive\Desktop\ControlAsistencias\SistemaAsistencias\SistemaAsistencias\obj\Debug\net8.0\refint\SistemaAsistencias.dll
+C:\Users\jonat\OneDrive\Desktop\ControlAsistencias\SistemaAsistencias\SistemaAsistencias\obj\Debug\net8.0\SistemaAsistencias.pdb
+C:\Users\jonat\OneDrive\Desktop\ControlAsistencias\SistemaAsistencias\SistemaAsistencias\obj\Debug\net8.0\SistemaAsistencias.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\Desktop\ControlAsistencias\SistemaAsistencias\SistemaAsistencias\obj\Debug\net8.0\ref\SistemaAsistencias.dll
